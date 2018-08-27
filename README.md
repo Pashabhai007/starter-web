@@ -15,3 +15,7 @@ this section consist of deployment phase.
 ## Contribute
 
 This section consist of contribution phase.
+
+###Copyrigh
+
+Git.Tutorial @2015
